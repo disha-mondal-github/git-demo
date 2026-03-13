@@ -1,1 +1,2 @@
-This is just a text file for commit 1 of feature branch 
+This is just a text file for commit 1 of feature branch
+This is just an additional text for commit 2 of feature branch  
